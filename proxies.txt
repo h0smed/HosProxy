@@ -2,21 +2,17 @@
 #
 # One website pr line. Lines starting with # are considered comments.
 #
-# Different Spys One lists
+
 https://spys.one/en
 https://spys.one/free-proxy-list/US
 https://spys.one/free-proxy-list/DE
 https://spys.one/free-proxy-list/FR
 https://spys.one/free-proxy-list/RU
-
-# Different Proxy List Org lists
 https://proxy-list.org/english/index.php?p=1
 https://proxy-list.org/english/index.php?p=2
 https://proxy-list.org/english/index.php?p=3
 https://proxy-list.org/english/index.php?p=4
 https://proxy-list.org/english/index.php?p=5
-
-# Different Proxy Nova lists
 https://www.proxynova.com/proxy-server-list/country-us
 https://www.proxynova.com/proxy-server-list/country-cn
 https://www.proxynova.com/proxy-server-list/country-ve
@@ -28,8 +24,6 @@ https://www.proxynova.com/proxy-server-list/country-br
 https://www.proxynova.com/proxy-server-list/country-id
 https://www.proxynova.com/proxy-server-list/country-ru
 https://www.proxynova.com/proxy-server-list/country-fr
-
-# Different lists
 https://www.us-proxy.org
 https://www.proxyscan.io/
 https://free-proxy-list.net
@@ -37,27 +31,19 @@ http://www.mrhinkydink.com/proxies.htm
 http://www.mrhinkydink.com/proxies2.htm
 http://www.mrhinkydink.com/proxies3.htm
 http://www.cool-proxy.net
-
-# Different Free Proxy lists
 http://free-proxy.cz/en/proxylist/main/1
 http://free-proxy.cz/en/proxylist/main/2
 http://free-proxy.cz/en/proxylist/main/3
 http://free-proxy.cz/en/proxylist/main/4
 http://free-proxy.cz/en/proxylist/main/5
 http://free-proxy.cz/en/proxylist/main/6
-
-# Different Free Proxy Lists lists
 http://www.freeproxylists.net/?page=1
 http://www.freeproxylists.net/?page=2
 http://www.freeproxylists.net/?page=3
 http://www.freeproxylists.net/?page=4
-
-# Different lists
 http://www.idcloak.com/proxylist/proxy-list.html
 http://www.ip-adress.com/proxy_list
 http://proxydb.net/
-
-# Different Proxy Lists Download lists
 https://www.proxy-list.download/HTTP
 https://www.proxy-list.download/HTTPS
 https://www.proxy-list.download/SOCKS4
