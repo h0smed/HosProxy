@@ -2,19 +2,19 @@
 #
 # One website pr line. Lines starting with # are considered comments.
 #
-
-http://spys.one/en
-http://spys.one/free-proxy-list/US
-http://spys.one/free-proxy-list/DE
-http://spys.one/free-proxy-list/FR
-http://spys.one/free-proxy-list/RU
+# Different lists
+https://spys.one/en
+https://spys.one/free-proxy-list/US
+https://spys.one/free-proxy-list/DE
+https://spys.one/free-proxy-list/FR
+https://spys.one/free-proxy-list/RU
 
 # Different lists
-http://proxy-list.org/english/index.php?p=1
-http://proxy-list.org/english/index.php?p=2
-http://proxy-list.org/english/index.php?p=3
-http://proxy-list.org/english/index.php?p=4
-http://proxy-list.org/english/index.php?p=5
+https://proxy-list.org/english/index.php?p=1
+https://proxy-list.org/english/index.php?p=2
+https://proxy-list.org/english/index.php?p=3
+https://proxy-list.org/english/index.php?p=4
+https://proxy-list.org/english/index.php?p=5
 
 # Different lists
 http://www.proxynova.com/proxy-server-list/country-us
@@ -31,8 +31,8 @@ http://www.proxynova.com/proxy-server-list/country-fr
 
 # Different lists
 http://www.us-proxy.org
-http://www.proxyscan.io/
-http://free-proxy-list.net
+https://www.proxyscan.io/
+https://free-proxy-list.net
 http://www.mrhinkydink.com/proxies.htm
 http://www.cool-proxy.net
 
@@ -43,6 +43,8 @@ http://free-proxy.cz/en/proxylist/main/3
 http://free-proxy.cz/en/proxylist/main/4
 http://free-proxy.cz/en/proxylist/main/5
 http://free-proxy.cz/en/proxylist/main/6
+
+# Different lists
 http://www.freeproxylists.net/?page=1
 http://www.freeproxylists.net/?page=2
 http://www.freeproxylists.net/?page=3
@@ -54,7 +56,7 @@ http://www.ip-adress.com/proxy_list
 http://proxydb.net/
 
 # Different lists
-http://www.proxy-list.download/HTTP
-http://www.proxy-list.download/http
-http://www.proxy-list.download/SOCKS4
-http://www.proxy-list.download/SOCKS5
+https://www.proxy-list.download/HTTP
+https://www.proxy-list.download/HTTPS
+https://www.proxy-list.download/SOCKS4
+https://www.proxy-list.download/SOCKS5
