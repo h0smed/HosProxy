@@ -1,4 +1,4 @@
-# This is a list of websites that ProxyMaid will use to get public proxies.
+# This is a list of websites that Hos Proxy will use to get public proxies.
 #
 # One website pr line. Lines starting with # are considered comments.
 #
